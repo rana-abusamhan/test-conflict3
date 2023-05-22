@@ -1,3 +1,3 @@
-function powerOfTwo(n){
-    return n**2
+function powerOfThree(n){
+    return n**3
 }
